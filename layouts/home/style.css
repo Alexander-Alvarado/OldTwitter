@@ -110,6 +110,11 @@ body {
     margin: 0 10px
 }
 
+#content{
+    align-items: center;
+    justify-content: center;
+}
+
 #user-info {
     display: block;
     height: 5px;
